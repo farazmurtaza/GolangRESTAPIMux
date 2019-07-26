@@ -8,15 +8,6 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	// "encoding/json"
-	// "log"
-	// "net/http"
-	// "math/rand"
-	// "strconv"
-	// "log"
-	// "net/http"
-	// "fmt"
-	// "github.com/gorilla/mux"
 )
 
 //Book struct (basically the model)
